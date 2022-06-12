@@ -151,3 +151,5 @@ Tersedia di:
 | `TLS` | [dns11.quad9.net]() |
 | `HTTPS` |  https://dns11.quad9.net/dns-query |
 | `DNS, IPv4` | [9.9.9.11 dan 149.112.112.11]() |
+
+Mungkin segitu dulu buat toolsnya. Sebenarnya masih ada beberapa list tapi saya isi segitu dulu. Buat yang mau menambahkan silahkan.
